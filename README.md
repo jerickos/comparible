@@ -1,1 +1,1 @@
-# comparible
+# comparable
